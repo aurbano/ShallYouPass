@@ -1,0 +1,26 @@
+{
+  "name": "ShallYouPass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aurbano/ShallYouPass",
+  "authors": [
+    "Alejandro U. Alvarez <aluralma@gmail.com>"
+  ],
+  "description": "Nodejs password analysis tool",
+  "main": "index.js",
+  "keywords": [
+    "password",
+    "analysis"
+  ],
+  "license": "AGPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
